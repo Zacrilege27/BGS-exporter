@@ -1,0 +1,30 @@
+faction:
+  name: "After Earth Stellar Alliance"
+  short_name: "AESA"
+
+polling:
+  interval_seconds: 300
+  request_timeout_seconds: 20
+
+systems:
+  primary:
+    - "HIP 33557"
+    - "Wregoe FC-M d7-35"
+    - "Wregoe FC-M d7-37"
+    - "Wregoe QX-W b29-0"
+    - "HIP 33765"
+
+  secondary: []
+  peripheral: []
+
+storage:
+  snapshot_dir: "./data/snapshots"
+  state_file: "./data/state.json"
+
+exporter:
+  listen_host: "0.0.0.0"
+  listen_port: 9815
+
+discord:
+  enabled: false
+  webhook_url: ""

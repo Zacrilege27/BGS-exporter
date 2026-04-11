@@ -1,0 +1,18 @@
+bgs_exporter_up 1
+bgs_system_fetch_success{system="HIP 33557"} 1
+bgs_system_last_success_unixtime{system="HIP 33557"} 1775938500
+
+bgs_faction_present{system="HIP 33557",faction="After Earth Stellar Alliance"} 1
+bgs_faction_influence{system="HIP 33557",faction="After Earth Stellar Alliance"} 0.4271
+bgs_faction_rank{system="HIP 33557",faction="After Earth Stellar Alliance"} 1
+bgs_system_controlled{system="HIP 33557",faction="After Earth Stellar Alliance"} 1
+
+bgs_state_active{system="HIP 33557",faction="After Earth Stellar Alliance",state="boom"} 1
+bgs_state_pending{system="HIP 33557",faction="After Earth Stellar Alliance",state="expansion"} 1
+bgs_state_recovering{system="HIP 33557",faction="After Earth Stellar Alliance",state="none"} 0
+
+bgs_conflict_active{system="HIP 33557",faction="After Earth Stellar Alliance",opponent="Some Rival Faction",type="war"} 1
+bgs_conflict_days_won{system="HIP 33557",faction="After Earth Stellar Alliance",opponent="Some Rival Faction"} 2
+bgs_conflict_days_lost{system="HIP 33557",faction="After Earth Stellar Alliance",opponent="Some Rival Faction"} 1
+
+bgs_station_controlled{system="HIP 33557",station="Haberlandt Terminal",faction="After Earth Stellar Alliance"} 1

@@ -1,0 +1,42 @@
+{
+  "timestamp_utc": "2026-04-11T20:15:00Z",
+  "system_name": "HIP 33557",
+  "watch_tier": "primary",
+  "faction_name": "After Earth Stellar Alliance",
+
+  "faction_present": true,
+  "faction_influence": 0.4271,
+  "faction_rank": 1,
+  "system_controller": "After Earth Stellar Alliance",
+  "faction_controls_system": true,
+
+  "active_states": ["boom"],
+  "pending_states": ["expansion"],
+  "recovering_states": [],
+
+  "conflicts": [
+    {
+      "type": "war",
+      "status": "active",
+      "opponent": "Some Rival Faction",
+      "stake": "Haberlandt Terminal",
+      "days_won": 2,
+      "days_lost": 1
+    }
+  ],
+
+  "stations": [
+    {
+      "name": "Haberlandt Terminal",
+      "type": "Coriolis Starport",
+      "owner_faction": "After Earth Stellar Alliance",
+      "controlling_faction": "After Earth Stellar Alliance",
+      "has_market": true,
+      "has_shipyard": true
+    }
+  ],
+
+  "source": "elitebgs",
+  "fetch_ok": true,
+  "fetch_error": ""
+}
