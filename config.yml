@@ -4,15 +4,20 @@ faction:
 
 polling:
   interval_seconds: 300
-  request_timeout_seconds: 20
+  request_timeout_seconds: 45
 
 systems:
   primary:
-    - "HIP 33557"
-    - "Wregoe FC-M d7-35"
-    - "Wregoe FC-M d7-37"
-    - "Wregoe QX-W b29-0"
-    - "HIP 33765"
+    - name: "HIP 33557"
+      id64: 491530504507
+    - name: "Wregoe FC-M d7-35"
+      id64: 1213085010243
+    - name: "Wregoe FC-M d7-37"
+      id64: 1281804486979
+    - name: "Wregoe QX-W b29-0"
+      id64: 671760196865
+    - name: "HIP 33765"
+      id64: 560249981251
 
   secondary: []
   peripheral: []

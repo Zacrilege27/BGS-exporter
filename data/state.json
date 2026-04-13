@@ -1,0 +1,15 @@
+{
+  "systems": {
+    "HIP 33557": {
+      "last_influence": 0.4271,
+      "last_rank": 1,
+      "last_controller": "After Earth Stellar Alliance",
+      "last_active_states": ["boom"],
+      "last_pending_states": ["expansion"],
+      "last_recovering_states": [],
+      "last_conflicts_hash": "abc123",
+      "last_station_control_hash": "def456",
+      "last_seen": "2026-04-11T20:15:00Z"
+    }
+  }
+}
